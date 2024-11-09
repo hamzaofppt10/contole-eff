@@ -1,0 +1,114 @@
+{
+  "experts": [
+    {
+      "id": 1,
+      "nom_complet": "Dupont Jean",
+      "événements": [
+        {
+          "théme": "Développement Web",
+          "date_debut": "2024-03-02",
+          "date_fin": "2024-03-15",
+          "description": "Introduction au développement web moderne",
+          "cout_journalier": 500,
+          "durée": 13
+        },
+        {
+          "théme": "Applications Mobiles",
+          "date_debut": "2024-04-01",
+          "date_fin": "2024-04-15",
+          "description": "conception et développement des applications mobiles",
+          "cout_journalier": 700,
+          "durée": 14
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nom_complet": "Martin Pierre",
+      "événements": [
+        {
+          "théme": "Intelligence Artificielle",
+          "date_debut": "2024-05-10",
+          "date_fin": "2024-05-20",
+          "description": "Introduction à l'intelligence artificielle",
+          "cout_journalier": 800,
+          "durée": 10
+        },
+        {
+          "théme": "Big Data",
+          "date_debut": "2024-06-01",
+          "date_fin": "2024-06-10",
+          "description": "Analyse et traitement des grandes données",
+          "cout_journalier": 900,
+          "durée": 9
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nom_complet": "Leroy Sophie",
+      "événements": [
+        {
+          "théme": "Cybersécurité",
+          "date_debut": "2024-07-15",
+          "date_fin": "2024-07-25",
+          "description": "Principes de base de la cybersécurité",
+          "cout_journalier": 600,
+          "durée": 10
+        },
+        {
+          "théme": "Blockchain",
+          "date_debut": "2024-08-05",
+          "date_fin": "2024-08-15",
+          "description": "Introduction à la technologie blockchain",
+          "cout_journalier": 750,
+          "durée": 10
+        }
+      ]
+    },
+    {
+      "id": 1731143993970,
+      "nom_complet": "Martin Pierre",
+      "événements": [
+        {
+          "théme": "ergreg",
+          "date_debut": "2024-11-15",
+          "date_fin": "2024-11-19",
+          "description": "Introduction à l'intelligence artificielle",
+          "cout_journalier": "13",
+          "durée": 10
+        },
+        {
+          "théme": "Big Data",
+          "date_debut": "2024-06-01",
+          "date_fin": "2024-06-10",
+          "description": "Analyse et traitement des grandes données",
+          "cout_journalier": 900,
+          "durée": 9
+        }
+      ]
+    },
+    {
+      "id": 1731144096962,
+      "nom_complet": "Martin Pierre",
+      "événements": [
+        {
+          "théme": "ergreg",
+          "date_debut": "2024-11-28",
+          "date_fin": "2024-11-29",
+          "description": "Introduction à l'intelligence artificielle",
+          "cout_journalier": "15",
+          "durée": 10
+        },
+        {
+          "théme": "Big Data",
+          "date_debut": "2024-06-01",
+          "date_fin": "2024-06-10",
+          "description": "Analyse et traitement des grandes données",
+          "cout_journalier": 900,
+          "durée": 9
+        }
+      ]
+    }
+  ]
+}
